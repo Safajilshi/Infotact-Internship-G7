@@ -1,8 +1,8 @@
-Week 3: Dashboard Architecture and Data Visualization
+## Week 3: Dashboard Architecture and Data Visualization
 
 This week focuses on building an interactive Power BI dashboard to analyze retail sales data.
 
-Key Features:
+### Key Features:
 
 * KPI cards showing Total Revenue, Total Orders, and Average Order Value
 * Sales trend analysis using line charts
@@ -16,17 +16,17 @@ Key Features:
 * Interactive slicers for filtering by Date, City, Category, and Channel
 * Clear All Filters functionality
 
-Tools Used:
+### Tools Used:
 
 * Power BI
 * DAX (Data Analysis Expressions)
 
-Insights:
+### Insights:
 
 * Sales show fluctuations across months with peak performance during mid-year
 * Sales are consistent across weekdays
 * Order volume remains stable throughout the week
 
-Conclusion:
+### Conclusion:
 
 The dashboard provides meaningful insights into sales performance and supports data-driven decision-making.
